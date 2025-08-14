@@ -1,0 +1,15 @@
+/workspaces/i-AndreNLindhe/bin/Debug/net8.0/i-AndreNLindhe
+/workspaces/i-AndreNLindhe/bin/Debug/net8.0/i-AndreNLindhe.deps.json
+/workspaces/i-AndreNLindhe/bin/Debug/net8.0/i-AndreNLindhe.runtimeconfig.json
+/workspaces/i-AndreNLindhe/bin/Debug/net8.0/i-AndreNLindhe.dll
+/workspaces/i-AndreNLindhe/bin/Debug/net8.0/i-AndreNLindhe.pdb
+/workspaces/i-AndreNLindhe/obj/Debug/net8.0/i-AndreNLindhe.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/i-AndreNLindhe/obj/Debug/net8.0/i-AndreNLindhe.AssemblyInfoInputs.cache
+/workspaces/i-AndreNLindhe/obj/Debug/net8.0/i-AndreNLindhe.AssemblyInfo.cs
+/workspaces/i-AndreNLindhe/obj/Debug/net8.0/i-AndreNLindhe.csproj.CoreCompileInputs.cache
+/workspaces/i-AndreNLindhe/obj/Debug/net8.0/i-AndreNLindhe.sourcelink.json
+/workspaces/i-AndreNLindhe/obj/Debug/net8.0/i-AndreNLindhe.dll
+/workspaces/i-AndreNLindhe/obj/Debug/net8.0/refint/i-AndreNLindhe.dll
+/workspaces/i-AndreNLindhe/obj/Debug/net8.0/i-AndreNLindhe.pdb
+/workspaces/i-AndreNLindhe/obj/Debug/net8.0/i-AndreNLindhe.genruntimeconfig.cache
+/workspaces/i-AndreNLindhe/obj/Debug/net8.0/ref/i-AndreNLindhe.dll
